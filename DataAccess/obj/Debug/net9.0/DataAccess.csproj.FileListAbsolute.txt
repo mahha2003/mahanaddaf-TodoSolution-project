@@ -1,0 +1,11 @@
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
