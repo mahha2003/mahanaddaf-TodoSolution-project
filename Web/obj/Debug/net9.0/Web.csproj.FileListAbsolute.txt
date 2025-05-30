@@ -96,3 +96,4 @@ C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\Web\obj\Debug\net
 C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\Web\obj\Debug\net9.0\Web.pdb
 C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
 C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\mahaa\Desktop\my files\fourth\handasa\ToDoSolution_SV\Web\obj\Debug\net9.0\Web.sourcelink.json
